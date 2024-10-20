@@ -1,0 +1,3 @@
+# Principio de Abierto-Cerrado (OCP) en PHP: Mejora la Extensibilidad sin Modificar tu Código
+
+- En este tutorial, aprenderás a aplicar el Principio de Abierto-Cerrado (OCP) en PHP, uno de los cinco principios SOLID del desarrollo de software. Descubre cómo diseñar clases y sistemas que sean fáciles de extender sin necesidad de modificar el código original, mejorando así la flexibilidad y mantenibilidad de tus proyectos. A través de ejemplos prácticos, verás cómo aplicar este principio para crear aplicaciones más escalables y robustas. ¡Optimiza tu código y lleva tu desarrollo a un nivel profesional!
